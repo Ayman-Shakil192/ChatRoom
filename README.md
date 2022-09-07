@@ -1,35 +1,3 @@
-# Project Installation
+# ChatRoom
 
-```bash
-   git clone https://github.com/bhattaraijay05/usp-project.git
-   cd usp-project
-```
-
-# Setup
-
-```bash
-Install node js :
-https://nodejs.org/en/download/
-```
-
-# Initialization of Backend
-
-```bash
-cd backend
-npm install -g yarn
-yarn install
-yarn start
-```
-
-# Initialization of Frontend
-
-Using react js.
-
-# Install Node and React js
-
-```bash
-cd frontend
-npm install -g yarn
-yarn install
-yarn start
-```
+A web app where you can chat in a common room and login with a random user name.
